@@ -1,3 +1,4 @@
+# github.com/tomsnode\
 Inclusive & Exclusive
 
  
@@ -14,9 +15,7 @@ Inclusive & Exclusive
    
    www.conceptslearningmachine.com
    
-#
-   
-   github.com/tomsnode\
+
    
   
    
