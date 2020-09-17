@@ -14,10 +14,11 @@ Inclusive & Exclusive
    
    www.conceptslearningmachine.com
    
+#
    
-   github.com/tomsnode
+   github.com/tomsnode\
    
-   twitter.com/dr_catalano
+  
    
 
    
